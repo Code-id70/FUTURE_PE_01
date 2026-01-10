@@ -1,8 +1,9 @@
 Rosslyn Clinic - AI Website Copy Generator
 
 Project Overview:
-This repository contains a structured prompt engineering system designed to generate professional, community-focused website copy for Rosslyn Clinic, a public healthcare facility in Rosslyn, Akasia, City of Tshwane, South Africa.
-Unlike commercial businesses, public clinics require copy that balances professionalism with accessibility, clarity with compassion, and honesty about service limitations with community trust-building.
+This project demonstrates how structured prompt engineering can be used
+to generate clear, honest, community-focused website copy for public
+healthcare clinics, using Rosslyn Clinic as a real-world case study.
 
 Business Chosen:
 Rosslyn Clinic
@@ -169,7 +170,7 @@ Patient education materials
 🔗 Links & Resources
 
 Future Interns: https://www.linkedin.com/company/future-interns
-LinkedIN Profile: https://www.linkedin.com/in/wanga-thagwana/
+Linkedin Profile: https://www.linkedin.com/in/wanga-thagwana/
 
 Lovable: https://lovable.dev
 Chatgpt.com: https://chatgpt.com
