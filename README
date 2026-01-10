@@ -1,10 +1,10 @@
-# Rosslyn Clinic - AI Website Copy Generator
+Rosslyn Clinic - AI Website Copy Generator
 
-📋 Project Overview
+Project Overview:
 This repository contains a structured prompt engineering system designed to generate professional, community-focused website copy for Rosslyn Clinic, a public healthcare facility in Rosslyn, Akasia, City of Tshwane, South Africa.
 Unlike commercial businesses, public clinics require copy that balances professionalism with accessibility, clarity with compassion, and honesty about service limitations with community trust-building.
 
-🏥 Business Chosen
+Business Chosen:
 Rosslyn Clinic
 
 Type: Public medical clinic
@@ -12,7 +12,7 @@ Location: Rosslyn, Akasia – City of Tshwane, South Africa
 Target Audience: Local community members seeking affordable, accessible healthcare
 Key Challenge: High patient volumes, resource limitations, need for clear communication about services and expectations
 
-🎯 Problem Being Solved
+Problem Being Solved:
 Public healthcare facilities often struggle with:
 
 ❌ Unclear communication about available services
@@ -29,28 +29,28 @@ This prompt system addresses these issues by generating:
 ✅ Community-focused messaging
 ✅ Actionable guidance for patients
 
-🧠 Prompt Engineering Strategy
+Prompt Engineering Strategy:
 Design Principles
 
-Clarity Over Marketing
+Clarity Over Marketing:
 
 Public clinics serve communities, not customers
 Prompts avoid sales language and unrealistic promises
 Focus on information and guidance
 
-Tone Adaptation
+Tone Adaptation:
 
 Professional but warm
 Respectful of diverse patient backgrounds
 Honest about limitations (capacity, stock, wait times)
 
-Structured Modularity
+Structured Modularity:
 
 Separate prompts for homepage, services, and CTAs
 Reusable across different public healthcare facilities
 Easy to adapt for specific clinic needs
 
-Context-Aware
+Context-Aware:
 
 Acknowledges high patient volumes
 References local community (Rosslyn, Akasia)
@@ -64,17 +64,27 @@ rosslyn-clinic-copy/
 │ ├── 02-services-prompt.md # Service descriptions
 │ └── 03-cta-prompt.md # Calls-to-action
 └── outputs/
-├── homepage-copy.md # Generated homepage content
-├── services-copy.md # Generated services page
-└── cta-copy.md # Generated CTA sections
+├── node_modules react js node_modules for the overall project
+├── public # Imagies location
+└── src # Generated website code location
 
-🛠️ Tools Used
+🛠️ Tools Used:
 
 Primary AI Tool: [Specify: ChatGPT / Claude / Gemini]
 Website Builder: [Specify: Lovable / Framer AI / Other]
 Version Control: GitHub
 
-📝 Prompt Breakdown
+Website Development:
+- Framework: React (v18.3.1) with TypeScript (v5.8.3)
+- Build Tool: Vite (v5.4.19)
+- Styling: Tailwind CSS (v3.4.17)
+- UI Components: Shadcn/ui (built on Radix UI)
+- Routing: React Router DOM (v6.30.1)
+- Icons: Lucide React (v0.462.0)
+- Data Fetching: TanStack React Query (v5.83.0)
+- Linting: ESLint
+
+Prompt Breakdown:
 1️⃣ Homepage Copy Prompt
 Purpose: Generate a clear value proposition and set expectations
 Key Elements:
@@ -104,7 +114,7 @@ Location-based encouragement (local community focus)
 
 Tone: Supportive, respectful, action-oriented
 
-🎓 How to Use This System
+How to Use This System:
 For This Clinic:
 
 Review the prompts in /prompts/
@@ -142,7 +152,7 @@ Structured sections create reusable templates
 Context about business type (public vs. private) dramatically changes output quality
 Clear instructions about what to avoid is as important as what to include
 
-📈 Next Steps / Real-World Application
+Next Steps / Real-World Application
 To Present to Rosslyn Clinic:
 
 Show how the copy improves clarity and professionalism
@@ -159,15 +169,18 @@ Patient education materials
 🔗 Links & Resources
 
 Future Interns: https://www.linkedin.com/company/future-interns
+LinkedIN Profile: https://www.linkedin.com/in/wanga-thagwana/
+
 Lovable: https://lovable.dev
-Framer AI: https://www.framer.com/ai
+Chatgpt.com: https://chatgpt.com
+Claude.ai: https://claude.ai/
 
 👤 Author
-[Your Name]
+WANGA MUKOVHE TYRESE THAGWANA
 Prompt Engineering Intern – Future Interns (2026)
 
 📄 License
 This prompt system is open for educational and non-commercial use. If you adapt it for client work, please credit the methodology.
 
-🙏 Acknowledgments
+Acknowledgments
 This project was completed as part of the Future Interns Prompt Engineering Task 1 (2026), focusing on creating real-world value for local businesses through structured AI prompt systems.
