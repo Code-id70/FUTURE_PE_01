@@ -1,0 +1,9 @@
+Generate homepage website copy for a public medical clinic.
+
+Include:
+- Clear headline stating the clinic’s purpose
+- Sub-headline identifying the community served
+- Short introduction explaining what patients can expect
+- Emphasis on transparency, care, and public service
+
+Avoid marketing hype or unrealistic promises.

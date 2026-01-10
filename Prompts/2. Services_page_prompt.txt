@@ -1,0 +1,19 @@
+Create services page content for a public medical clinic.
+
+Clinic Name: Rosslyn Clinic
+
+List the following services:
+-> General Medical Consultations
+-> Maternal & Child Health Services
+-> Immunisations
+-> Basic Health Screenings
+
+For each service, include:
+-> Service name
+-> What the service includes (simple, patient-friendly explanation)
+-> Why patients should use this clinic for the service
+-> A note that availability depends on clinic capacity and stock
+
+Tone:
+Clear, honest, and informative.
+Avoid medical jargon and sales language.
